@@ -16,15 +16,25 @@
 <br />
 
 
-🔭 I’m currently working on **random projects**.
+# About ME 💬 :
 
-🌱 I’m currently learning **a little bit of everything**.
+### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-👨‍💻 All of my projects are available **here on my GitHub**.
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-💬 Feel free to ask me about **C#, PHP, Python and more**.
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
 
-📫 You can reach me **on discord, Cam3r0n#0666**.
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
 
 <br />
 
