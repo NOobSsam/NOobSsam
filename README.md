@@ -2,15 +2,28 @@
 <h1 align="center">Hi 👋, I'm Cam3r0nn</h1>
 <h3 align="center">A developer from the United States.</h3>
 
-- 🔭 I’m currently working on **random projects**.
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-- 🌱 I’m currently learning **a little bit of everything**.
+🔭 I’m currently working on **random projects**.
 
-- 👨‍💻 All of my projects are available **here on my GitHub**.
+🌱 I’m currently learning **a little bit of everything**.
 
-- 💬 Feel free to ask me about **C#, PHP, Python and more**.
+👨‍💻 All of my projects are available **here on my GitHub**.
 
-- 📫 You can reach me **on discord, Cam3r0n#0666**.
+💬 Feel free to ask me about **C#, PHP, Python and more**.
+
+📫 You can reach me **on discord, Cam3r0n#0666**.
 
 
 ### Spotify Playing 🎧
