@@ -11,6 +11,8 @@
     <img align="left" alt="NoobSsam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 </div>
+<br />
+
 
 ### Spotify Playing 🎧
 
