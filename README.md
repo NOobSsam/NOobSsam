@@ -39,3 +39,5 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
