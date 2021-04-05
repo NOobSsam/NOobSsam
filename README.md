@@ -19,8 +19,8 @@
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
 
 
-<h1 align="center">Hi 👋, I'm Cam3r0nn</h1>
-<h3 align="center">A developer from the United States.</h3>
+#<h1 align="center">Hi 👋, I'm Cam3r0nn</h1>
+#<h3 align="center">A developer from the United States.</h3>
 
 
 <br />
