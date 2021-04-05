@@ -1,21 +1,24 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="allign: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
 
+
+<div style="allign: right">
+  <a href="https://discord.gg/11pm">
+    <img align="left" alt="11pm's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  </a>
+  <a href="https://twitter.com/11pmU">
+    <img align="left" alt="NoobSsam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+  <a href="https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e">
+    <img align="left" alt="NoobSsam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Cam3r0nn</h1>
 <h3 align="center">A developer from the United States.</h3>
 
-<a href="https://discord.gg/11pm">
-  <img align="left" alt="11pm's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/11pmU">
-  <img align="left" alt="NoobSsam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e">
-  <img align="left" alt="NoobSsam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 <br />
@@ -41,6 +44,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 
+<br />
 <br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
