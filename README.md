@@ -1,5 +1,16 @@
 
+<h1 align="center">Hi 👋, I'm Cam3r0nn</h1>
+<h3 align="center">A developer from the United States.</h3>
 
+- 🔭 I’m currently working on **random projects**.
+
+- 🌱 I’m currently learning **a little bit of everything**.
+
+- 👨‍💻 All of my projects are available **here on my GitHub**.
+
+- 💬 Feel free to ask me about **C#, PHP, Python and more**.
+
+- 📫 You can reach me **on discord, Cam3r0n#0666**.
 
 
 ### Spotify Playing 🎧
