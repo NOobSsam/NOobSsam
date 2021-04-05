@@ -1,10 +1,10 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="allign: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
 
 
-<div style="allign: right">
+<div style="align: right">
   <a href="https://discord.gg/11pm">
     <img align="left" alt="11pm's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   </a>
