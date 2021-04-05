@@ -1,8 +1,4 @@
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
-
 
 <div style="text-align: right">
   <a href="https://discord.gg/11pm">
@@ -15,6 +11,11 @@
     <img align="left" alt="NoobSsam's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 </div>
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
+
 
 <h1 align="center">Hi 👋, I'm Cam3r0nn</h1>
 <h3 align="center">A developer from the United States.</h3>
