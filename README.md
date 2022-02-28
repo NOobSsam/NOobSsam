@@ -31,7 +31,7 @@
 - 🐧 (Professional XD)
 </br>
 
-<a href="https://11pmworld.com" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/428692060619407370.png"/></a>
+<a href="https://discord.gg/11pm" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/428692060619407370.png"/></a>
 
 # Languages and Tools:
 
