@@ -1,7 +1,10 @@
 ### Now Playing 🎧
 
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
-
+</a>
+<a href="https://discord.com/users/428692060619407370">
+        <img src="https://lanyard.cnrad.dev/api/428692060619407370?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+    </a>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
