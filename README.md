@@ -1,4 +1,3 @@
-# README.md
 ### Now Playing 🎧
 
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
