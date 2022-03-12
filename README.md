@@ -1,6 +1,6 @@
 ### Now Playing 🎧
 
-[<img src="https://spotify-now-playing.noobssam.vercel.app/api/spotify" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
+[<img src="https://spotify-now-playing.noobssam.vercel.app/api/spotify" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/85fc1eec2a0f497aa22e0c3ec8537326)
 
 <a href="https://discord.gg/11pm"> <img  align="right" src="https://lanyard.cnrad.dev/api/428692060619407370?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
 
