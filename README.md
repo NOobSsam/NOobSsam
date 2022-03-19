@@ -1,8 +1,9 @@
+<a href="https://discord.gg/11pm"> <img  align="right" src="https://lanyard.cnrad.dev/api/428692060619407370?idleMessage=%22𝙇𝙖𝙯𝙮%20𝙋𝙚𝙤𝙥𝙡𝙚%20𝙒𝙤𝙧𝙠%20𝙎𝙢𝙖𝙧𝙩𝙚𝙧.%22&borderRadius=25px" />
 ### Now Playing 🎧
 
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://open.spotify.com/user/rsspczkp3g4guni467rak4x8e)
 
-<a href="https://discord.gg/11pm"> <img  align="right" src="https://lanyard.cnrad.dev/api/428692060619407370?idleMessage=%22𝙇𝙖𝙯𝙮%20𝙋𝙚𝙤𝙥𝙡𝙚%20𝙒𝙤𝙧𝙠%20𝙎𝙢𝙖𝙧𝙩𝙚𝙧.%22&borderRadius=25px" />
+
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
