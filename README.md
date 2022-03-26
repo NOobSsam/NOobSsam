@@ -37,6 +37,12 @@
 <a href="https://discord.gg/11pm" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/428692060619407370.png"/></a>
 <a href="https://discord.gg/11pm" target="_blank"> <img hight="20" width="400" alt="GIF" align="right" src="https://readme-typing-svg.herokuapp.com?font=anaglyph&color=%239F33CF&lines=%F0%9F%91%8B+Hi+there!+I'm+z%E2%82%ACr0;Add+Me+!">
 
+<details>
+  <summary>Github Stats</summary>
+  
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=NOobSsam&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&title_color=78aad8&text_color=f5f5f5)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NOobSsam&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham&langs_count=4&layout=compact&title_color=78aad8&text_color=f5f5f5)
+</details>
 
 # Languages and Tools 🐍 :
 
